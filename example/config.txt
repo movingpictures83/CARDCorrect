@@ -1,0 +1,2 @@
+Prefix plugins/CARDCorrect/example/
+Plugin CARDCorrect inputfile parameters.txt outputfile counts.csv

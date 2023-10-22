@@ -1,0 +1,6 @@
+readcounts	CARD_read_count_specific.tsv
+genelengths	ResPipe_CARD-3.0.3.meta.tsv
+lateralcoverage	CARD_lateral_coverage_specific.tsv
+readlengths	CARD_read_lengths_specific.tsv
+metadata	Metagenomics_Metadata.csv
+RDS	./
